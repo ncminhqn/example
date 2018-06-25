@@ -1,0 +1,9 @@
+E:\Test Visual\testGitHub\testGitHub\bin\Debug\testGitHub.exe.config
+E:\Test Visual\testGitHub\testGitHub\obj\Debug\testGitHub.csprojResolveAssemblyReference.cache
+E:\Test Visual\testGitHub\testGitHub\obj\Debug\testGitHub.Form1.resources
+E:\Test Visual\testGitHub\testGitHub\obj\Debug\testGitHub.Properties.Resources.resources
+E:\Test Visual\testGitHub\testGitHub\obj\Debug\testGitHub.csproj.GenerateResource.Cache
+E:\Test Visual\testGitHub\testGitHub\bin\Debug\testGitHub.exe
+E:\Test Visual\testGitHub\testGitHub\bin\Debug\testGitHub.pdb
+E:\Test Visual\testGitHub\testGitHub\obj\Debug\testGitHub.exe
+E:\Test Visual\testGitHub\testGitHub\obj\Debug\testGitHub.pdb
